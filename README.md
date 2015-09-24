@@ -3,6 +3,7 @@
 
 效果图如下：
 
+![image](https://github.com/jczmdeveloper/XCSlideView/blob/master/sreenshots/00.gif)     
 
 ![image](https://github.com/jczmdeveloper/XCSlideView/blob/master/sreenshots/01.png)                              ![image](https://github.com/jczmdeveloper/XCSlideView/blob/master/sreenshots/02.png)
 
